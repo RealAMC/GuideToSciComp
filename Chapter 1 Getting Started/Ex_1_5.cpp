@@ -4,7 +4,6 @@ Write code that invites the user to input separately strings that store their gi
 */
 
 #include <iostream>
-#include <cmath>
 
 int main (int argc, char* argv[])
 {
